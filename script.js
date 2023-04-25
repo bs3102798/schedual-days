@@ -33,5 +33,5 @@ $(document).ready(function () {
       $(this).addClass('future');
     }
   })
-  // if(now.dayjs().hour())
+ 
 });
