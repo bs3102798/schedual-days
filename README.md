@@ -6,3 +6,8 @@ The motivation of this project was to create a working schedual that allows a pe
 
 
 ## Features
+When you first open the project you will see all the business hours in the day and be able to scroll from 8am to 5pm
+![Alt text](assets/image0%20(2).jpeg)
+![Alt text](assets/image1%20(3).jpeg)
+When it comes to interactivity with the schedual you can write down things you need to do by writing into the textarea and clicking the lock button on the right hand side to save it. In reloading the page it will still be there for future referance. But if you are finished you can delete the text by clicking on the words and using the backspace to delete them. Just remember to click the lock button on the right to save the changes so when you refreash the page so you won't see it anymore.
+![Alt text](assets/image2%20(2).jpeg)
